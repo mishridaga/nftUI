@@ -1,0 +1,22 @@
+{
+  "mints": [
+    {
+      "mint number": 123,
+      "price": 3
+    }
+  ],
+"features": [
+    {
+      "feature": "feature1",
+      "price": 5
+    },
+    {
+      "feature": "feature2",
+      "price": 2
+    },
+    {
+      "feature": "feature3",
+      "price": 9
+    }
+  ]
+}
